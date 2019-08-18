@@ -1,0 +1,8 @@
+﻿<MailText>
+  <!--Lang: Turkish-->
+  <MailSignature lang-code="tr">Bu mail IPTVNotifier tarafından otomatik olarak oluşturulmuştur.</MailSignature>
+  <NewEntriesCaption lang-code="tr">Aşağıdaki başlıklar yeni eklenmiştir.</NewEntriesCaption>
+  <!--Lang: English-->
+  <MailSignature lang-code="en">This mail has been generated automatically by IPTVNotifier.</MailSignature>
+  <NewEntriesCaption lang-code="en">The following headings have just been added.</NewEntriesCaption>
+</MailText>
